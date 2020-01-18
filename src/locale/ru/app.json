@@ -1,0 +1,10 @@
+{
+    "header": {
+        "title": " GeadAPPI"
+    },
+    "navbar": {
+        "home" : "Главная",
+        "advantages" : "Преимущества",
+        "offer" : "Попробовать"
+    }
+}

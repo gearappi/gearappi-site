@@ -1,0 +1,10 @@
+{
+    "header": {
+        "title": " GeadAPPI"
+    },
+    "navbar": {
+        "home" : " Home",
+        "advantages" : "advantages",
+        "offer" : "Try now"
+    }
+}
